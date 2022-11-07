@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+}
+.texto{
+    margin: 3px;
+    padding: 3px;
+}
+span{
+    font-size: 26px;
+    background-color: #ff0095;   
+    
+}
+body{
+    border: solid;
+    border-width: 2px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: aliceblue;
+}
+.Sub{
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+.HTML{
+    background-color: cyan;
+}
+.CABECA{
+    background-color: yellow;
+}
+.CORPO{
+    background-color: palegreen;
+}
+.SUBS{
+    background-color: #ff0095;    
+}
